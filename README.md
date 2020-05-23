@@ -3,4 +3,4 @@
 供大家学习研究使用
 
 # 预览截图
-![https://a147022899.github.io/youth-hubei/](https://imagebuffer.oss-cn-shanghai.aliyuncs.com/18da/2.png?v=1.5)
+![](https://imagebuffer.oss-cn-shanghai.aliyuncs.com/18da/2.png?v=1.5)
